@@ -1,3 +1,5 @@
 
 env/
 data/
+.ipynb_checkpoints/
+testing/__pycache__/
