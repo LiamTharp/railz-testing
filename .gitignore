@@ -4,3 +4,5 @@ data/
 .ipynb_checkpoints/
 <<<<<<< HEAD
 testing/__pycache__/
+.vscode
+/testing/output/rawdata
