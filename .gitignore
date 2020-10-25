@@ -3,6 +3,7 @@ env/
 data/
 .ipynb_checkpoints/
 <<<<<<< HEAD
-testing/__pycache__/
+__pycache__/
 .vscode
-/testing/output/rawdata
+/output/rawdata
+.log
